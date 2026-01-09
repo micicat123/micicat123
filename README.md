@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Marcel Zep
 
-### [Your Role/Tagline] · [Your Location or Timezone]
+### Full stack developer · Slovenia
 
 [![GitHub followers](https://img.shields.io/github/followers/[YourUsername]?style=social)](https://github.com/[YourUsername])
 [![Twitter Follow](https://img.shields.io/twitter/follow/[YourTwitterHandle]?style=social)](https://twitter.com/[YourTwitterHandle])
@@ -49,51 +49,5 @@ Passionate about building elegant solutions to complex problems. I specialize in
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=[YourUsername]&theme=dark&hide_border=true&background=0d1117)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### [🔗 Project One](https://github.com/[YourUsername]/[Project-Repo])
-*Short description of what this project does and why it's cool.*
-![Tech Stack](https://img.shields.io/badge/Tech-React%20|%20Node.js%20|%20PostgreSQL-blue)
-
-### [🔗 Project Two](https://github.com/[YourUsername]/[Project-Repo])
-*Brief explanation of the problem it solves and key features.*
-![Tech Stack](https://img.shields.io/badge/Tech-Python%20|%20FastAPI%20|%20Docker-green)
-
-### [🔗 Project Three](https://github.com/[YourUsername]/[Project-Repo])
-*Highlight what makes this project unique or noteworthy.*
-![Tech Stack](https://img.shields.io/badge/Tech-Go%20|%20Redis%20|%20AWS-orange)
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will auto-update if you set up the blog post workflow -->
-• [Your latest blog post title](https://your-blog.com/latest-post)
-• [Another interesting article](https://your-blog.com/another-post)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing technology, collaboration opportunities, or just having a friendly chat about code.
-
-[![Email](https://img.shields.io/badge/Email-[YourEmail]-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YourEmail])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[YourLinkedIn]-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YourLinkedIn])
-[![Portfolio](https://img.shields.io/badge/Portfolio-[YourPortfolio]-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://[YourPortfolio].com)
-
----
-
-<div align="center">
-
-### ⚡ Fun Fact
-*"The first computer bug was an actual moth found in the Harvard Mark II computer in 1947."*
-
-⭐ **Star some repositories you find interesting!** ⭐
 
 </div>
